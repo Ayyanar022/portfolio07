@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.outer {
+  padding: 20px;  margin: 20px;
+  width: 95%;
+  background: #190482;
+  box-shadow:rgb(236, 89, 138);
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 38px;
+  text-shadow: 2px 0px 4px black;
+  margin-bottom: 10px;
+}
+audio {
+  height: 32px;  width: 180px;
+  margin-top: 3px;  padding: 8px;
+}
+
+hr {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  box-shadow: 0px 0px 10px black;
+}
+
+img {
+  width:95%; height:80%;
+  margin: auto;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #FF9209;
+}
+
+.a1 {
+  margin: 20px;
+  padding: 5px;
+  height: 300px;
+  width: 200px;
+  background: #EA1179;
+}
+h2{
+	text-align: center;
+	padding: 10px;
+	font-size: 25px;
+}
+#dream{
+	padding:3px;
+}
+#thanjavur{
+	padding :5px;
+}
+hr{
+	box-shadow: 0px 3px 6px black;
+}
